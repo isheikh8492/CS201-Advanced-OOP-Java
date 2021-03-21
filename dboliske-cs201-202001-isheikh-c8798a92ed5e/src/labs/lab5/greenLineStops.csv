@@ -1,0 +1,35 @@
+Name,Latitude,Longitude,Location,Wheelchair,Open
+Harlem,41.88706,-87.80486,elevated,TRUE,TRUE
+Oak Park,41.886784,-87.794324,elevated,FALSE,TRUE
+Ridgeland,41.886784,-87.784628,elevated,FALSE,TRUE
+Austin,41.887293,-87.774135,elevated,FALSE,TRUE
+Central,41.887389,-87.76565,elevated,TRUE,TRUE
+Laramie,41.887163,-87.754986,elevated,TRUE,TRUE
+Cicero,41.886519,-87.744698,elevated,TRUE,TRUE
+Pulaski,41.885412,-87.725404,elevated,TRUE,TRUE
+Conservatory-Central Park Drive,41.884904,-87.716513,elevated,TRUE,TRUE
+Homan,41.884914,-87.711327,elevated,FALSE,FALSE
+Kenzie,41.884321,-87.706155,elevated,TRUE,TRUE
+California,41.88422,-87.696234,elevated,TRUE,TRUE
+Damen,41.885,-87.676944,elevated,TRUE,FALSE
+Ashland,41.885268,-87.666969,elevated,TRUE,TRUE
+Morgan,41.8856,-87.6522,elevated,TRUE,TRUE
+Clinton,41.885678,-87.641782,elevated,TRUE,TRUE
+Clark/Lake,41.885767,-87.630885,elevated,TRUE,TRUE
+State/Lake,41.88574,-87.627835,elevated,FALSE,TRUE
+Randolph/Wabash,41.884431,-87.626149,elevated,FALSE,FALSE
+Washington/Wabash,41.8829,-87.626205,elevated,TRUE,TRUE
+Madison/Wabash,41.882023,-87.626098,elevated,FALSE,FALSE
+Adams/Wabash,41.884431,-87.6261,elevated,FALSE,TRUE
+Roosevelt,41.867368,-87.627402,elevated,TRUE,TRUE
+Cermak-McCormick,41.8531548,-87.626423,elevated,TRUE,TRUE
+35th-Bronzeville-IIT,41.831677,-87.625826,elevated,TRUE,TRUE
+Indiana,41.821732,-87.621371,elevated,TRUE,TRUE
+43rd,41.816462,-87.619021,elevated,TRUE,TRUE
+47th,41.8094,-87.61909,elevated,TRUE,TRUE
+51st,41.8022,-87.61903,elevated,TRUE,TRUE
+Garfield,41.79454,-87.61835,elevated,TRUE,TRUE
+58th,41.789233,-87.618027,elevated,FALSE,FALSE
+Halsted,41.77954,-87.64468,elevated,TRUE,TRUE
+Racine,41.779445,-87.654515,elevated,TRUE,FALSE
+Ashland/63rd,41.77943,-87.66393,elevated,TRUE,TRUE
